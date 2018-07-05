@@ -1,4 +1,4 @@
-Kotlin Hello World Demo
-=======================
+Kotlin Sql2o with H2 Demo
+=========================
 
-Hello world from kotlin. Open it in IDE and run `Hello.kt`
+Use [sql2o](https://github.com/aaberg/sql2o) to select/insert/update data from h2.

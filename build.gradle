@@ -18,6 +18,8 @@ dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     compile "org.apache.commons:commons-lang3:3.7"
     compile "commons-io:commons-io:2.6"
+    compile "org.sql2o:sql2o:1.5.4"
+    compile 'com.h2database:h2:1.4.197'
     testCompile "junit:junit:4.11"
     testCompile 'org.assertj:assertj-core:3.9.0'
     testCompile "org.jetbrains.kotlin:kotlin-test-junit:$kotlin_version"
